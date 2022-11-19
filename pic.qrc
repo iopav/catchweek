@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="新前缀">
+    <file>embedded (2).jpeg</file>
+    <file>搜狗截图20221116100621.png</file>
+    <file>搜狗截图20221116125120.png</file>
+    <file>搜狗截图20221116125215.png</file>
+    <file>搜狗截图20221116125244.png</file>
+    <file>搜狗截图20221116125318.png</file>
+    <file>搜狗截图20221116125413.png</file>
+    <file>搜狗截图20221116125428.png</file>
+    <file>搜狗截图20221116125445.png</file>
+    <file>搜狗截图20221116125513.png</file>
+    <file>搜狗截图20221116125521.png</file>
+    <file>搜狗截图20221116125530.png</file>
+    <file>搜狗截图20221116125537.png</file>
+    <file>搜狗截图20221116125543.png</file>
+    <file>图片1.png</file>
+    <file>图片2.png</file>
+    <file>图片3.png</file>
+    <file>图片4.png</file>
+    <file>图片5.png</file>
+    <file>图片6.png</file>
+    <file>图片7.png</file>
+    <file>图片8.png</file>
+    <file>图片9.png</file>
+    <file>图片10.png</file>
+    <file>图片11.png</file>
+  </qresource>
+</RCC>
